@@ -1,0 +1,7 @@
+.box {
+    text-align: center;
+    border: 4px solid rgb(187, 255, 0);
+}
+.inside-box {
+    border: 3px solid rgb(188, 41, 41);
+}
